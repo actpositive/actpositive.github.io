@@ -1,0 +1,356 @@
+{
+  "page-title": "Hello, Superhero.",
+  "page-blurb": "Yes, you.<br /><br /> You do not know it yet, but with just a flick of your finger you can unleash an army of minions who will spend all their working hours fighting for the causes that you care about. While your friends post angry status messages bemoaning the injustices in this world, <em>you</em> can make sure that this tireless army works <em>every day</em> towards bringing positive changes in the world around you.<br /><br /> Be the armchair superhero the world deserves. Pick the causes dearest to you, and then support organizations working towards those causes.",
+  "causes": [
+    {
+    "name": "Women's Rights",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "Planned Parenthood",
+        "link": "http://www.plannedparenthood.org",
+        "link-donation": "http://www.plannedparenthood.org",
+        "description": "Provides reproductive and other health services.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4338",
+          "score": 90
+        }
+      },
+      {
+        "name": "National Organization For Women",
+        "link": "http://now.org/",
+        "link-donation": "http://now.org/",
+        "description": "Grassroots activism since 1966."
+      }
+    ]
+  },
+  {
+    "name": "War & Refugees",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "International Refugee Assistance Project",
+        "link": "https://refugeerights.org",
+        "link-donation": "https://refugeerights.org",
+        "description": "Assisting the world's most vulnerable refugees.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3809",
+          "score": 85
+        }
+      },
+      {
+        "name": "UNHCR",
+        "link": "http://www.unhcr.org/",
+        "link-donation": "http://www.unhcr.org/",
+        "description": "The UN refugee agency.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=8166",
+          "score": 78
+        }
+      },
+      {
+        "name": "International Rescue Committee",
+        "link": "https://www.rescue.org",
+        "link-donation": "https://www.rescue.org",
+        "description": "Responding to the world's worst humanitarian crises.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3898",
+          "score": 91
+        }
+      },
+      {
+        "name": "Save The Children",
+        "link": "http://www.savethechildren.org",
+        "link-donation": "http://www.savethechildren.org",
+        "description": "Helping children in Syria and elsewhere.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4438",
+          "score": 91
+        }
+      }
+    ]
+  },
+  {
+    "name": "Nature & Environment",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "Conservation International",
+        "link": "http://www.conservation.org/",
+        "link-donation": "http://www.conservation.org/",
+        "description": "Science, policy and partnerships to protect nature.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3562",
+          "score": 91
+        }
+      },
+      {
+        "name": "Natural Resources Defence Council",
+        "link": "https://www.nrdc.org",
+        "link-donation": "https://www.nrdc.org",
+        "description": "Climate change is real.",
+        "cn": {
+        "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4207",
+        "score": 96
+        }
+      },
+      {
+        "name": "Wildlife Conservation Society",
+        "link": "http://www.wcs.org/",
+        "link-donation": "http://www.wcs.org/wcs-donate",
+        "description": "Saving wildlife and wild places worldwide. Managing the world's largest system of urban wildlife parks.",
+        "cn": {
+        "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=6637",
+        "score": 93
+        }
+      },
+      {
+        "name": "Cheetah Conservation Fund",
+        "link": "http://cheetah.org",
+        "link-donation": "http://cheetah.org",
+        "description": "Cheetahs are on the <a href='http://www.bbc.com/news/science-environment-38415906'>brink of extinction</a>.",
+        "cn": {
+        "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=6617",
+        "score": 94
+        }
+      }
+    ]
+  },
+
+  {
+    "name": "Civil Liberties",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "ACLU",
+        "link": "https://www.aclu.org/",
+        "link-donation": "https://www.aclu.org/",
+        "description": "Defend individual rights and liberties.",
+        "cn": {
+        "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3247",
+        "score": 94
+        }
+      },
+      {
+        "name": "National Lawyers Guild",
+        "link": "https://www.nlg.org/",
+        "link-donation": "https://www.nlg.org/donate/nlgf/",
+        "description": "Using the law to protect civil liberties and strengthen the rights of people."
+      },
+      {
+        "name": "Electronic Frontier Foundation (EFF)",
+        "link": "https://www.eff.org",
+        "link-donation": "https://supporters.eff.org/donate",
+        "description": "Defending your rights in the digital world",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=7576",
+          "score": 96
+        }
+      }
+    ]
+  },
+  {
+    "name": "Human Rights",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "Southern Poverty Law Center",
+        "link": "https://splcenter.org/",
+        "link-donation": "https://donate.splcenter.org/splcdonate",
+        "description": "Fighting hate, promoting tolerance, and bringing justice to the powerless.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4482",
+          "score": 86
+        }
+      },
+      {
+        "name": "NAACP",
+        "link": "http://www.naacp.org",
+        "link-donation": "http://www.naacp.org",
+        "description": "Fighting race-based discrimination.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4158",
+          "score": 78
+        }
+      },
+      {
+        "name": "National Immigration Law Center",
+        "link": "https://www.nilc.org",
+        "link-donation": "https://www.nilc.org",
+        "description": "Information on the law, and the employment and public benefits rights of immigrants.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=8189",
+          "score": 91
+        }
+      }
+    ]
+  },
+  {
+    "name": "Education",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "Teach For America",
+        "link": "https://www.teachforamerica.org",
+        "link-donation": "https://www.teachforamerica.org",
+        "description": "Enlisting our future leaders to become teachers in low-income communities.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=4992",
+          "score": 95
+        }
+      },
+      {
+        "name": "KIPP",
+        "link": "http://www.kipp.org",
+        "link-donation": "http://www.kipp.org",
+        "description": "Network of free college-prep schools in under-resourced communities."
+      },
+      {
+        "name": "Khan Academy",
+        "link": "https://www.khanacademy.org/",
+        "link-donation": "https://www.khanacademy.org/donate",
+        "description": "Providing a free world-class education for anyone anywhere."
+      },
+      {
+        "name": "The Malala Fund",
+        "link": "https://www.malala.org/",
+        "link-donation": "https://www.malala.org/",
+        "description": "Ensure that every girl can complete 12 years of safe, quality education."
+      }
+    ]
+  },
+  {
+    "name": "Medical",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "Doctors Without Borders",
+        "link": "http://www.doctorswithoutborders.org",
+        "link-donation": "http://www.doctorswithoutborders.org",
+        "description": "Medical projects in war-torn regions and developing countries.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3628",
+          "score": 93
+        }
+      },
+      {
+        "name": "Red Cross",
+        "link": "http://www.redcross.org",
+        "link-donation": "http://www.redcross.org",
+        "description": "Protecting the life and dignity of the victims of armed conflicts and natural disasters.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=3277",
+          "score": 83
+        }
+      }
+    ]
+  },
+  {
+    "name": "The Press",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "Pro Publica",
+        "link": "https://www.propublica.org/",
+        "link-donation": "https://www.propublica.org/donate/",
+        "description": "Holding those in power accountable."
+      },
+      {
+        "name": "Free Press",
+        "link": "http://www.freepress.net",
+        "link-donation": "http://www.freepress.net/action",
+        "description": "Fighting to save Net Neutrality and freedom of the press.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=11701",
+          "score": 83
+        }
+      },
+      {
+        "name": "National Public Radio",
+        "link": "http://www.npr.org",
+        "link-donation": "http://www.npr.org",
+        "description": "Donate to your local public radio.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=6637",
+          "score": 85
+        }
+      },
+      {
+        "name": "The New York Times",
+        "link": "http://www.nytimes.com",
+        "link-donation": "http://www.nytimes.com",
+        "description": "Support a print publication and keep institutions <a href='https://www.theguardian.com/commentisfree/2016/aug/12/john-oliver-journalism-danger-why-that-matters-accountability'>honest</a>."
+      }
+    ]
+  },
+  {
+    "name": "LGBTQ",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "True Colors Fund",
+        "link": "https://truecolorsfund.org",
+        "link-donation": "https://truecolorsfund.org",
+        "description": "End homelessness among lesbian, gay, bisexual, and transgender youth."
+      },
+      {
+        "name": "Human Rights Campaign",
+        "link": "http://www.hrc.org",
+        "link-donation": "http://www.hrc.org",
+        "description": "Equal rights for LGBTQ people.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=6229",
+          "score": 89
+        }
+      },
+      {
+        "name": "The Trevor Project",
+        "link": "http://www.thetrevorproject.org",
+        "link-donation": "http://www.thetrevorproject.org",
+        "description": "Crisis intervention and suicide prevention services for LGBTQ people."
+      },
+      {
+        "name": "The Trans Lifeline",
+        "link": "http://www.translifeline.org",
+        "link-donation": "http://www.translifeline.org",
+        "description": "Hotline staffed by transgender people for transgender people.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=11281",
+          "score": 93
+        }
+      }
+    ]
+  },
+  {
+    "name": "Gun Violence",
+    "description": "",
+    "causes-list": [
+      {
+        "name": "Everytown for Gun Safety",
+        "link": "https://everytown.org",
+        "link-donation": "https://secure.actblue.com/contribute/page/ab-everytown-default/",
+        "description": "Counterweight to NRA. Promoting responsible gun ownership and pushing for sensible gun laws."
+      },
+      {
+        "name": "Coalition to Stop Gun Violence",
+        "link": "https://www.csgv.org",
+        "link-donation": "https://secure.csgv.org/page/contribute/donate-today-to-csgv",
+        "description": "Umbrella group of gun control advocacy organizations."
+      },
+      {
+        "name": "Brady Campaign",
+        "link": "http://www.bradycampaign.org",
+        "link-donation": "https://secure.everyaction.com/FixKmAdTbkyF5-sTXYCdpQ2",
+        "description": "Aims to cut US gun deaths in half by 2025.",
+        "cn": {
+          "link": "https://www.charitynavigator.org/index.cfm?bay=search.summary&orgid=5426",
+          "score": 73
+        }
+      }
+    ]
+  }
+
+  ],
+
+  "footer": "This site is not affiliated with any organization listed above. <a href='https://twitter.com/chsuperhero'>Tweet</a> to get in touch. Share with your friends."
+}
